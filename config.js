@@ -18,9 +18,9 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github=process.env.GITHUB|| "https://github.com/Giftedmaurice/gifted-mdV2";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o" ; 
+global.github=process.env.GITHUB|| "😡bokachoda link nibi😠";
+global.gurl  =process.env.GURL  || "";
+global.website=process.env.GURL || "" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/54efddccf41281ad7ec51.jpg" ; // SET LOGO FOR IMAGE 
 
 
@@ -71,12 +71,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.2.0.0",
-  caption : process.env.CAPTION || "©²⁰²⁴ ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅᵛ²•⁰•⁰" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅᵛ²•⁰•⁰ - ²⁰²⁴ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n youtube.com/@giftedtechnexus"),
+  caption : process.env.CAPTION || "©🦋_❣️Aɳʝαɳ❣️_🦋" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🦋_❣️Aɳʝαɳ❣️_🦋 』```", //*『sᴜʙsᴄʀɪʙᴇ • 🦋_❣️Aɳʝαɳ❣️_🦋』*\n youtube.com/@🦋_❣️Aɳʝαɳ❣️_🦋"),
  
-  author : process.env.PACK_AUTHER|| "Gifted-MD",
+  author : process.env.PACK_AUTHER|| "🦋_❣️Aɳʝαɳ❣️_🦋",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It's Gifted",
+  botname : process.env.BOT_NAME  || "🦋_❣️Aɳʝαɳ❣️_🦋",
+  ownername:process.env.OWNER_NAME|| "🦋_❣️Aɳʝαɳ❣️_🦋",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -92,7 +92,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "GIFTED",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "🦋_❣️Aɳʝαɳ❣️_🦋",
 
 
 
